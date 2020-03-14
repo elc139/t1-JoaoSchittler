@@ -1,23 +1,20 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Nome: < preencha seu nome aqui >
+Nome: João Gabriel da Cunha Schittler
 
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
-| Nome/Título                                               |                       |                 |
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
-| Classificação de Flynn                                    |                       |                 |
-| Memória: compartilhada, distribuída ou ambas?             |                       |                 |
-| Número total de núcleos de processamento                  |                       |                 |
-| Fabricante e modelo do(s) processador(es)                 |                       |                 |
-| Frequência do(s) processador(es)                          |                       |                 |
-| Memória total                                             |                       |                 |
-| Tipo(s) de interconexão entre os núcleos/processadores    |                       |                 |
-| Desempenho Linpack                                        |                       |                 |
+| Nome/Título                                               |     Piz Daint         |                 |
+| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://www.cscs.ch/fileadmin/_processed_/3/f/csm_Piz_Daint_sinistra_persona_3_d62b411fcc.jpg" width="48">|<img scr = "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/g_series/15_3590_nontouch/pdp/laptop_g_series_g3_15_3590_nontouch_notebook_pdp_for_work_mod_6.jpg?fmt=jpg"	      |
+| Classificação de Flynn                                    |         MIMD          |    MIMD         |
+| Memória: compartilhada, distribuída ou ambas?             |         Ambas         |  Compartilhada  |
+| Número total de núcleos de processamento                  |        387,872        |       4         |
+| Fabricante e modelo do(s) processador(es)                 |   Xeon E5-2690v3 12C  |IntelCore i5-9300|
+| Frequência do(s) processador(es)                          |         2.6GHz        |      2.4GHz     |
+| Memória total                                             |       365,056 GB      |       8GB       |
+| Tipo(s) de interconexão entre os núcleos/processadores    |   Aries interconnect  |                 |
+| Desempenho Linpack                                        |     21,230 TFlop/s    |   138 GFlops/s  |
 
 ### Referências
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- ...
+- Computador do TOP500. Piz Daint . URL https://www.top500.org/system/177824
